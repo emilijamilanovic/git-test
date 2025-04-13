@@ -1,4 +1,6 @@
 # git-test
 
-nesto novo
+nesto novo nesto staro
 nesto
+
+linija
