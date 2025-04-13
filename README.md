@@ -1,5 +1,5 @@
 # git-test
-
+...
 
 # globalno opste
 
